@@ -1,8 +1,5 @@
 # 💫 About Me:
 I'm currently pursuing Diploma in Computer Engineering.<br>Learning cybersecurity for passion. <br>Can efficiently build Flutter Mobile Application.<br><br>Fun Fact : I'll geek out on the topics I got interest in.<br>
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kathanlalpurwala) 
 
 # 💻 Tech Stack:

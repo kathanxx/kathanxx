@@ -13,8 +13,5 @@ I'm currently pursuing Diploma in Computer Engineering.<br>Learning cybersecurit
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://meme-site.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kathanxx&icon=0&color=0)](https://visitcount.itsvg.in)
